@@ -1,1 +1,12 @@
-<style
+
+  h1 {
+  color:black;
+  background-color: lightblue;
+  border: 5px solid black;
+  }
+
+  body {
+  background-color: lightcyan;
+  font-family: "Lucida Console", "Courier New", monospace;
+  }
+
