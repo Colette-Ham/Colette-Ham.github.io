@@ -1,1 +1,1 @@
-Copmuter science 10 project 
+Computer science 10 project 
